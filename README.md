@@ -32,13 +32,19 @@ This **Power BI Sales Dashboard** analyzes the sales performance of three differ
 📁 Car-Sales-Dashboard
 │
 ├── 📊 PowerBI_Report.pbix
+
 ├── 📊 Data_Files/
+
 │   ├── car_sales_data.csv
+
 │
 ├── 📄 README.md
+
 │
 └── 📸 Screenshots/
+
     ├── Dashboard_Overview.png
+    
     ├── Key_Insights.png
  
 ## 🔍 Findings
@@ -56,7 +62,9 @@ This **Power BI Sales Dashboard** analyzes the sales performance of three differ
 
 ## 📬 **Contact**
 👤 Name: Midlaj
+
 🔗 LinkedIn: www.linkedin.com/in/midlajac
+
 📧 Email: midlajac615@gmail.com
 
 
