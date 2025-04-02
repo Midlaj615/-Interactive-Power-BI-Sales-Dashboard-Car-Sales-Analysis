@@ -35,7 +35,7 @@ This **Power BI Sales Dashboard** analyzes the sales performance of three differ
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview]("https://github.com/Midlaj615/-Interactive-Power-BI-Sales-Dashboard-Car-Sales-Analysis/blob/main/car..png")  
+![car..png]("https://github.com/Midlaj615/-Interactive-Power-BI-Sales-Dashboard-Car-Sales-Analysis/blob/main/car..png")  
 
 
 ## 📂 Folder 
