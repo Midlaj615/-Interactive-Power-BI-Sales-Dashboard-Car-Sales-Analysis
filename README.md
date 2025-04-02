@@ -35,6 +35,7 @@ This **Power BI Sales Dashboard** analyzes the sales performance of three differ
 
 ## 📊 Dashboard Preview
 
+![Dashboard Overview]("C:\Users\midla\Videos\Screen Recordings\Screen Recording 2025-04-02 133314.mp4")  
 
 
 ## 📂 Folder 
