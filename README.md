@@ -65,7 +65,7 @@ This **Power BI Sales Dashboard** analyzes the sales performance of three differ
 
 🔗 LinkedIn: www.linkedin.com/in/midlajac
 
-📧 Email: midlajac615@gmail.com
+📧 Email: midlaj1dat@gmail.com
 
 
 
