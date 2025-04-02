@@ -1,6 +1,6 @@
-# Interactive_Power_BI__Car_Sales_Analysis
+#  Car Sales Analysis – Power BI Dashboard
 ## 📌 Overview
-This **Power BI Sales Dashboard** provides an interactive **sales analysis** for multiple car models. It helps businesses **track sales performance, measure growth, and optimize strategies** with visual insights.
+This **Power BI Sales Dashboard** analyzes the sales performance of three different car models. The goal is to provide data-driven insights for automotive businesses to track sales trends, measure growth, and optimize strategies effectively.
 ## 🔍 Key Features
 ✅ **Total Sales & Growth %** – Monitor revenue and year-over-year sales growth.  
 ✅ **Pre-Sale Performance** – Compare past and current sales trends.  
@@ -8,15 +8,56 @@ This **Power BI Sales Dashboard** provides an interactive **sales analysis** for
 ✅ **Segment & Region Analysis** – Identify top-performing categories and locations.  
 ✅ **Time-Based Trends** – Discover monthly and yearly sales patterns.  
 
-## 📊 Dashboard Preview
-![Dashboard Screenshot](Images/dashboard_screenshot.png)
+### 📈 **Tools Used**  
 
-## 📂 Files Included
-- **Sales_Dashboard.pbix** – Power BI report file  
-- **Sales_Dashboard.pdf** (optional) – Exported report for quick view    
+- **Excel**:Data Cleaning & Preparation 
+- **MySQL**: Data Analysis  
+- **Power BI**: Creating Reports
+
+
+### 📊 **Key Insights**
+**1Total Sales**: Tracks the overall revenue generated.                                                         
+**2Sales Growth%**: Compares the current year's sales with previous years.
+**3 Sales by Category**: Identifies top-performing car segments.
+**4 Sales by Region**: Analyzes sales distribution across different locations.
+**5 Sales by Month** – Detects seasonal trends and fluctuations.
+
+
+## 📊 Dashboard Preview
+
+
+
+## 📂 Folder 
+
+📁 Car-Sales-Dashboard
+│
+├── 📊 PowerBI_Report.pbix
+├── 📊 Data_Files/
+│   ├── car_sales_data.csv
+│
+├── 📄 README.md
+│
+└── 📸 Screenshots/
+    ├── Dashboard_Overview.png
+    ├── Key_Insights.png
+ 
+## 🔍 Findings
+✅ Sales Trends: The analysis shows that sales have grown consistently over time.
+✅ Customer Segmentation: Identifies which customer groups contribute the most to revenue.
+✅ Seasonal Impact: Certain months see higher sales due to festive seasons and discount periods.
+✅ Top-Selling Models: Some car models outperform others based on demand and market trends.
+
 
 ## 🚀 How to Use
 1. Download the `Sales_Dashboard.pbix` file.  
 2. Open it in **Power BI Desktop**. 
 4. Explore insights with **interactive filters & visuals**.
+
+
+## 📬 **Contact**
+👤 Name: Midlaj
+🔗 LinkedIn: www.linkedin.com/in/midlajac
+📧 Email: midlajac615@gmail.com
+
+
 
