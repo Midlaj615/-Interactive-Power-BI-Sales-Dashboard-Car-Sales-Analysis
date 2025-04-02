@@ -17,7 +17,7 @@ This **Power BI Sales Dashboard** analyzes the sales performance of three differ
 - **Excel**:Data Cleaning & Preparation
 
 - **MySQL**: Data Analysis
-- 
+   
 - **Power BI**: Creating Reports
 
 
